@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ibereats-staging-14102-authRole",
+      "UnauthRoleArn": "arn:aws:iam::545146090136:role/amplify-ibereats-staging-14102-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::545146090136:role/amplify-ibereats-staging-14102-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-ibereats-staging-14102-deployment",
+      "UnauthRoleName": "amplify-ibereats-staging-14102-unauthRole",
+      "StackName": "amplify-ibereats-staging-14102",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:545146090136:stack/amplify-ibereats-staging-14102/03917d70-07cd-11ed-8bb5-029c4e8815f2",
+      "AmplifyAppId": "d2zafnci7pd15"
+    },
+    "categories": {
+      "auth": {
+        "IberEats": {}
+      }
+    }
+  }
+}
